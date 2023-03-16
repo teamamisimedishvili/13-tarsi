@@ -1,0 +1,29 @@
+* { 
+    box-sizing: border-box;
+}
+    
+div {
+    background-color: #FAF4EF;
+    
+    height: 259px;
+    width: 220px;
+   border-bottom-left-radius: 50px;
+    margin-left: 555px;
+    margin-top: 230px;
+    padding-top: 20px;
+    padding-left: 30px;
+}
+h2 {
+    font-size: 20px;
+    line-height: 100%;
+    color: #4B4B4B;
+    font-family: 'DM Serif Display';
+}
+p {
+    color: #737373;
+    font-size: small;
+    font-family: 'DM Serif Display';
+}
+img {
+    margin-top: 30px;
+}
